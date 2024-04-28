@@ -26,7 +26,7 @@ To begin using the Rover Sensor Data Collector:
 
 ## Future Development
 
-This project lays the foundation for potential future development, including the implementation of a user-friendly data analysis system with secure storage capabilities. Contributions and enhancements to the project are welcome.
+This project lays the foundation for potential future development, including the implementation of a user-friendly data analysis system with secure storage capabilities.
 
 ## Contributors
 
